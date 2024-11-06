@@ -53,7 +53,7 @@ automation:
 
 ## Installation
 ### HACS [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-1. In HACS Store, search for [***basschipper/homeassistant-generic-hygrostat***]
+1. In HACS Store, search for [***pmolenaar/homeassistant-generic-hygrostat***]
 1. Install the custom integration
 1. Setup the generic hygrostat custom integration as described above
 
