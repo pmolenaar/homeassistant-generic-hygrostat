@@ -52,14 +52,7 @@ automation:
       entity_id: switch.fan
 ```
 
-
-## Installation
-### HACS [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-1. In HACS Store, search for [***pmolenaar/homeassistant-generic-hygrostat***]
-1. Install the custom integration
-1. Setup the generic hygrostat custom integration as described above
-
-### Manual
+### Installation
 1. Clone this repo
 1. Copy the `custom_components/generic_hygrostat` folder into your HA's `custom_components` folder
 1. Setup the generic hygrostat custom integration as described above
