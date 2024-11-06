@@ -9,6 +9,8 @@ Due to the fact that humidity levels are different during the summer and winter,
 Inspired by:
 https://www.domoticz.com/wiki/Humidity_control
 
+Updated version: AI-assisted changes to code in order to support (at least) Aqara humidity sensors over ZHA
+
 ## Setup
 In your `configuration.yaml` you'll need:
 
